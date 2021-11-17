@@ -24,12 +24,6 @@
 
 ---
 
-### 📚 Latest Medium Story
-<!-- MEDIUM-STORY-LIST:START -->
-<!-- MEDIUM-STORY-LIST:END -->
-
----
-
 <img align="left" alt="acmater's Github Stats" src="https://github-readme-stats.vercel.app/api?username=acmater&show_icons=true&hide_border=true" />
 
 [medium]: https://medium.com/@audhiaprilliant/
