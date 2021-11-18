@@ -25,5 +25,7 @@ I'm a PhD at the Australian National University student working at the interface
 
 <br />
 
+<img align="left" alt="acmater's Github Stats" src="https://github-readme-stats.vercel.app/api?username=acmater&show_icons=true&hide_border=true&theme=dracula" />
+
 [linkedin]: https://www.linkedin.com/in/acmater/
   
