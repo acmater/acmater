@@ -9,8 +9,19 @@
 I'm a PhD at the Australian National University student working at the interface of machine learning and chemistry.
 
 ### Languages:
-[<img align="left" alt="acmater | Languages" width=300px
-src="https://github.com/acmater/blob/main/Assets/Languages.png" />]
+[<img align="left" alt="acmater | Languages" width=500px
+src="https://github.com/acmater/acmater/blob/main/Assets/Languages.png"
+/>][linkedin]
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][linkedin]
 [<img align="left" alt="Julia" width=26px src="https://raw.githubusercontent.com/JuliaLang/julia-logo-graphics/master/images/julia-dots.svg" />][linkedin]
