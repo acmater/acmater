@@ -9,18 +9,10 @@
 I'm a PhD at the Australian National University student working at the interface of machine learning and chemistry.
 
 ### Languages:
-[<img align="left" alt="acmater | Languages" width=500px
+<img align="left" alt="acmater | Languages" width=1000px
 src="https://github.com/acmater/acmater/blob/main/Assets/Languages.png"
-/>][linkedin]
+/>
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 <br />
 <br />
 
